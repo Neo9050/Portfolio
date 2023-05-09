@@ -1,0 +1,23 @@
+$linkedinBlue1: #0376b4;
+$linkedinBlue2: #026faa;
+$linkedinBlue3: #034569;
+
+.common-btn{
+    width: 200px;
+    height: 30px;
+    cursor: pointer;
+    background-color: whitesmoke;
+    border: 1px solid #026faa;
+    color: #026faa;
+    border-radius: 30px;
+    font-family: system-ui;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 7px 0;
+}
+
+.common-btn:hover{
+    background-color: rgb(224, 220, 220);
+    border: 1px solid #026faa;
+    color: #026faa;
+}
